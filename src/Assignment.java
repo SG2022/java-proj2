@@ -21,7 +21,7 @@ public class Assignment {
         String priceAsString = null; 
         
         // Add code here
-      //  priceAsString= String.valueOf(price);
+        priceAsString= String.valueOf(price);
          priceAsString =Float.toString(price);
         // System.out.println("priceAsString prints " + priceAsString); // prints "9.9"
         // System.out.println(priceAsString instanceof String); // prints true

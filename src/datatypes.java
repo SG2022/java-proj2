@@ -1,4 +1,4 @@
-public class Test {
+public class datatypes {
     public static void main(String[] args) {
         // System.out.println("sanj " + Integer.parseInt(args[0]));
 
